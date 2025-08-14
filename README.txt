@@ -1,10 +1,3 @@
-Got it — you want the **GitHub README** in the same **colorful style**, but without the `#` and `##` heading markers, so it still looks clean but reads more like a styled project brief.
-
-Here’s the cleaned version without `#`/`##`:
-
----
-
-````markdown
 🛡️ Face Detection & Alert System
 
 A comprehensive security monitoring system combining **face recognition**, **mask detection**, and **crowd monitoring** with **real-time SMS alerts** using Twilio.
@@ -162,4 +155,5 @@ A comprehensive security monitoring system combining **face recognition**, **mas
 
 💬 Support
 📩 Create an issue in the repository for help.
+
 
